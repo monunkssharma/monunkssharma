@@ -1,6 +1,6 @@
 ### **About Me**
 - 👋 Hi, I’m Monu Sharma
--👀 I'm interested in expanding my knowledge in software development, with a focus on backend technologies.
+ 👀 I'm interested in expanding my knowledge in software development, with a focus on backend technologies.
 -🌱 I'm currently learning Java and Spring Boot, and exploring their applications.
 
 **### Collaboration and Community**
