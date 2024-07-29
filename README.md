@@ -1,7 +1,7 @@
 ### **About Me**
 - 👋 Hi, I’m Monu Sharma
  👀 I'm interested in expanding my knowledge in software development, with a focus on backend technologies.
--🌱 I'm currently learning Java and Spring Boot, and exploring their applications.
+🌱 I'm currently learning Java and Spring Boot, and exploring their applications.
 
 **### Collaboration and Community**
 💞️ I'm looking to collaborate on projects that involve building RESTful APIs and cloud-based applications using Java and Spring Boot. If you have a project idea or need help with an existing one, feel free to reach out!
